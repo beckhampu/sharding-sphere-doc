@@ -50,6 +50,7 @@ The list here will be shown in the registered order.
 * [Ppdai](https://www.ppdai.com/)
 * [HuoBi Info](https://www.huobiinfo.com/)
 * [9fgroup](https://www.9fgroup.com/)
+* [Orange Finance](https://www.bestpay.com.cn/)
 
 ## Cloud Company
 

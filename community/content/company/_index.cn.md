@@ -50,6 +50,7 @@ chapter = true
 * [拍拍贷](https://www.ppdai.com/)
 * [火币资讯](https://www.huobiinfo.com/)
 * [玖富数科](https://www.9fgroup.com/)
+* [甜橙金融(翼支付)](https://www.bestpay.com.cn/)
 
 ## 云平台
 
